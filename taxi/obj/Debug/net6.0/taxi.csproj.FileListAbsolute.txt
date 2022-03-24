@@ -1,0 +1,15 @@
+D:\AMIKOM\AMIKOM2\PEMROGRAMAN\taxi\taxi\obj\Debug\net6.0\taxi.csproj.AssemblyReference.cache
+D:\AMIKOM\AMIKOM2\PEMROGRAMAN\taxi\taxi\obj\Debug\net6.0\taxi.GeneratedMSBuildEditorConfig.editorconfig
+D:\AMIKOM\AMIKOM2\PEMROGRAMAN\taxi\taxi\obj\Debug\net6.0\taxi.AssemblyInfoInputs.cache
+D:\AMIKOM\AMIKOM2\PEMROGRAMAN\taxi\taxi\obj\Debug\net6.0\taxi.AssemblyInfo.cs
+D:\AMIKOM\AMIKOM2\PEMROGRAMAN\taxi\taxi\obj\Debug\net6.0\taxi.csproj.CoreCompileInputs.cache
+D:\AMIKOM\AMIKOM2\PEMROGRAMAN\taxi\taxi\bin\Debug\net6.0\taxi.exe
+D:\AMIKOM\AMIKOM2\PEMROGRAMAN\taxi\taxi\bin\Debug\net6.0\taxi.deps.json
+D:\AMIKOM\AMIKOM2\PEMROGRAMAN\taxi\taxi\bin\Debug\net6.0\taxi.runtimeconfig.json
+D:\AMIKOM\AMIKOM2\PEMROGRAMAN\taxi\taxi\bin\Debug\net6.0\taxi.dll
+D:\AMIKOM\AMIKOM2\PEMROGRAMAN\taxi\taxi\bin\Debug\net6.0\taxi.pdb
+D:\AMIKOM\AMIKOM2\PEMROGRAMAN\taxi\taxi\obj\Debug\net6.0\taxi.dll
+D:\AMIKOM\AMIKOM2\PEMROGRAMAN\taxi\taxi\obj\Debug\net6.0\refint\taxi.dll
+D:\AMIKOM\AMIKOM2\PEMROGRAMAN\taxi\taxi\obj\Debug\net6.0\taxi.pdb
+D:\AMIKOM\AMIKOM2\PEMROGRAMAN\taxi\taxi\obj\Debug\net6.0\taxi.genruntimeconfig.cache
+D:\AMIKOM\AMIKOM2\PEMROGRAMAN\taxi\taxi\obj\Debug\net6.0\ref\taxi.dll
